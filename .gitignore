@@ -1,0 +1,15 @@
+#用git管理时，.gitignore写法
+#default
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+#added
+.idea
+*.apk
